@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Returns",
+  "base_artist": "Poppin'Party",
+  "createdAt": "2025-12-11T11:06:11.766266Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Returns Every Morning",
+      "artist": "Lilys",
+      "has_synced": false,
+      "path": "select/01_Returns_Every_Morning_Lilys.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Silence Returns",
+      "artist": "Beau",
+      "has_synced": false,
+      "path": "select/02_Silence_Returns_Beau.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Many Happy Returns",
+      "artist": "ABC",
+      "has_synced": true,
+      "path": "select/03_Many_Happy_Returns_ABC.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Many Happy Returns - Live At Hammersmith Odeon",
+      "artist": "ABC",
+      "has_synced": false,
+      "path": "select/04_Many_Happy_Returns_-_Live_At_Hammersmith_Odeon_ABC.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Many Happy Returns (Live At Hammersmith Odeon)",
+      "artist": "ABC",
+      "has_synced": false,
+      "path": "select/05_Many_Happy_Returns_(Live_At_Hammersmith_Odeon)_ABC.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Diminishing Returns",
+      "artist": "Ali Love",
+      "has_synced": true,
+      "path": "select/06_Diminishing_Returns_Ali_Love.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Executioner Returns",
+      "artist": "Obituary",
+      "has_synced": false,
+      "path": "select/07_Executioner_Returns_Obituary.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Executioner Returns (Bonus)",
+      "artist": "Obituary",
+      "has_synced": false,
+      "path": "select/08_Executioner_Returns_(Bonus)_Obituary.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Many Happy Returns",
+      "artist": "Inspiral Carpets",
+      "has_synced": false,
+      "path": "select/09_Many_Happy_Returns_Inspiral_Carpets.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dil (From \"Ek Villain Returns\")",
+      "artist": "Kaushik feat. Guddu & Raghav Chaitanya",
+      "has_synced": true,
+      "path": "select/10_Dil_(From__Ek_Villain_Returns_)_Kaushik_feat._Guddu_&_Raghav_Chaitanya.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dil (From “Ek Villain Returns”)",
+      "artist": "Raghav Chaitanya",
+      "has_synced": true,
+      "path": "select/11_Dil_(From_“Ek_Villain_Returns”)_Raghav_Chaitanya.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dil (Shreya’s Version) [From \"Ek Villain Returns\"]",
+      "artist": "Shreya Ghoshal feat. Kaushik-Guddu",
+      "has_synced": true,
+      "path": "select/12_Dil_(Shreya’s_Version)_[From__Ek_Villain_Returns_]_Shreya_Ghoshal_feat._Kaushik-Guddu.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Galliyan Returns",
+      "artist": "Ankit Tiwari",
+      "has_synced": true,
+      "path": "select/13_Galliyan_Returns_Ankit_Tiwari.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Galliyan Returns (From “Ek Villain Returns”)",
+      "artist": "Ankit Tiwari",
+      "has_synced": true,
+      "path": "select/14_Galliyan_Returns_(From_“Ek_Villain_Returns”)_Ankit_Tiwari.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Shaamat (From \"Ek Villain Returns\")",
+      "artist": "Ankit Tiwari feat. Tara Sutaria",
+      "has_synced": true,
+      "path": "select/15_Shaamat_(From__Ek_Villain_Returns_)_Ankit_Tiwari_feat._Tara_Sutaria.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Shaamat (Ankit Tiwari Version) [From \"Ek Villain Returns\"]",
+      "artist": "Ankit Tiwari",
+      "has_synced": false,
+      "path": "select/16_Shaamat_(Ankit_Tiwari_Version)_[From__Ek_Villain_Returns_]_Ankit_Tiwari.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Happy Returns / Ascendant Here On...",
+      "artist": "Steven Wilson",
+      "has_synced": false,
+      "path": "select/17_Happy_Returns___Ascendant_Here_On..._Steven_Wilson.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Happy Returns \u0000 Ascendant Here On...",
+      "artist": "Steven Wilson",
+      "has_synced": true,
+      "path": "select/18_Happy_Returns_\u0000_Ascendant_Here_On..._Steven_Wilson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Returns",
+      "artist": "Poppin' Party",
+      "has_synced": false,
+      "path": "select/pl_01_Returns_Poppin'_Party.txt"
+    }
+  ]
+}
